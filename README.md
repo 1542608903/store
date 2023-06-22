@@ -1,29 +1,11 @@
-# store
+第一步拉取项目
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+第二部安装 
 npm install
-```
 
-### Compile and Hot-Reload for Development
+第三步安装以下所有依赖
+npm install element-plus --save
+npm install @element-plus/icons-vue
+npm install axios
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+第四步启动项目 npm run dev
