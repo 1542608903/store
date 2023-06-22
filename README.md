@@ -9,3 +9,12 @@ npm install @element-plus/icons-vue
 npm install axios
 
 第四步启动项目 npm run dev
+
+项目预览
+
+![登录页](https://github.com/1542608903/store/blob/main/login.png)
+![主页](https://github.com/1542608903/store/blob/main/home.png)
+![分类页](https://github.com/1542608903/store/blob/main/classify.png)
+![购物车页](https://github.com/1542608903/store/blob/main/cart.png)
+
+
